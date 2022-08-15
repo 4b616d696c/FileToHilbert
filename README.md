@@ -1,6 +1,8 @@
 # FileToHilbert
 Visualize data inside files in form of Hilbert curve.
 
+Red area in output (if present) is a fill so that the curve fits in a square.
+
 # Usage
 hilbert \<input file\> \<output file\> (uses 1bpp mode)
 
